@@ -1,2 +1,2 @@
 # simpleDOMprojects
-Simple DOM projects 
+Simple DOM projects to learn about DOM manipulation. 
